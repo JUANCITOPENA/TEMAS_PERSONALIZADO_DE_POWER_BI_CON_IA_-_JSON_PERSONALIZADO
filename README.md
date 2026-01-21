@@ -460,9 +460,10 @@ Aquí encontrarás el script completo generado para este tema **Cyberpunk Neon**
     }
   }
 }
----
+``` 
 
 ---
+
 
 ## 🎨 Elementos Personalizables
 
