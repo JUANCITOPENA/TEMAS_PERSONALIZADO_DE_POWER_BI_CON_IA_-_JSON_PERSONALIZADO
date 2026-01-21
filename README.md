@@ -1042,16 +1042,18 @@ Consulta LICENSE para más detalles.
 
 ### **👨‍💻 Sígueme y Conecta**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tucanal)
+### 📡 Conéctate conmigo en redes sociales
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JuancitoPenaV)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancitope%C3%B1a/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JUANCITOPENA)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JuancitoDevV)
 
 ### **📧 Contacto**
 
-📩 Email: tu@email.com  
-💼 Portfolio: [tuportfolio.com](https://tuportfolio.com)  
-📝 Blog: [tublog.com](https://tublog.com)
+📩 Email: juancito.pena@email.com  
+💼 Portfolio: 
+
 
 </div>
 
