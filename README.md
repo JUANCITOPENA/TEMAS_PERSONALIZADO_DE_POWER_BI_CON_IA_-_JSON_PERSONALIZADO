@@ -1044,10 +1044,14 @@ Consulta LICENSE para más detalles.
 
 ### 📡 Conéctate conmigo en redes sociales
 
+### 📡 Conéctate conmigo en redes sociales
+
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JuancitoPenaV)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancitope%C3%B1a/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JUANCITOPENA)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JuancitoDevV)
+
+
 
 ### **📧 Contacto**
 
