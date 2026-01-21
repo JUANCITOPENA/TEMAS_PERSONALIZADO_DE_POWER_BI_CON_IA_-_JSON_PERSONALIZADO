@@ -234,6 +234,237 @@ Por favor, genera el JSON completo y funcional listo para importar en Power BI.
 
 ---
 
+# 📂 Código Fuente del Tema (JSON)
+
+Aquí encontrarás el script completo generado para este tema **Cyberpunk Neon**. Puedes copiarlo directamente o descargar el archivo adjunto en este repositorio.
+
+### 📋 Instrucciones de uso:
+1. Copia el código de abajo.
+2. Guárdalo en tu computadora con el nombre: `Tema_Cyberpunk_V7.json`
+3. Impórtalo en Power BI (Ver -> Temas -> Buscar temas).
+
+```json
+{
+  "name": "Cyberpunk Juancito V7 Cards Only",
+  "dataColors": [
+    "#39FF14",
+    "#FFFF00",
+    "#FFFFFF",
+    "#00FF00",
+    "#ADFF2F",
+    "#2ECC71",
+    "#CCFF00",
+    "#00FF7F"
+  ],
+  "background": "#000000",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#FFFF00",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#000000" } },
+            "transparency": 0
+          }
+        ],
+        "visualBorder": [
+          {
+            "show": false
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": false
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#FFFFFF" } },
+            "fontSize": 14,
+            "alignment": "left",
+            "fontFamily": "Segoe UI Bold"
+          }
+        ],
+        "subtitle": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#FFFFFF" } },
+            "fontSize": 12
+          }
+        ],
+        "legend": [
+          {
+            "show": true,
+            "labelColor": { "solid": { "color": "#FFFFFF" } },
+            "titleColor": { "solid": { "color": "#FFFFFF" } },
+            "fontSize": 11,
+            "fontFamily": "Segoe UI"
+          }
+        ],
+        "categoryAxis": [
+          {
+            "show": true,
+            "labelColor": { "solid": { "color": "#FFFFFF" } },
+            "titleColor": { "solid": { "color": "#FFFFFF" } },
+            "fontSize": 11,
+            "fontFamily": "Segoe UI Bold"
+          }
+        ],
+        "valueAxis": [
+          {
+            "show": true,
+            "labelColor": { "solid": { "color": "#FFFFFF" } },
+            "titleColor": { "solid": { "color": "#FFFFFF" } },
+            "gridlineShow": false,
+            "fontSize": 11,
+            "fontFamily": "Segoe UI Bold"
+          }
+        ],
+        "dataLabels": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFF00" } },
+            "fontSize": 11,
+            "fontFamily": "Segoe UI Bold"
+          }
+        ],
+        "outspacePane": [
+          {
+            "backgroundColor": { "solid": { "color": "#000000" } },
+            "foreground": { "solid": { "color": "#FFFFFF" } }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "fontSize": 25,
+            "fontFamily": "DIN"
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#FFFF00" } },
+            "show": true,
+            "fontSize": 12,
+            "fontFamily": "Segoe UI Bold"
+          }
+        ],
+        "visualBorder": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFF00" } },
+            "radius": 10
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFF00" } },
+            "position": "Outer",
+            "preset": "BottomRight",
+            "transparency": 50,
+            "blur": 15
+          }
+        ]
+      }
+    },
+    "multiRowCard": {
+      "*": {
+        "dataLabels": [
+          { "color": { "solid": { "color": "#FFFFFF" } }, "fontSize": 12 }
+        ],
+        "categoryLabels": [
+          { "color": { "solid": { "color": "#FFFF00" } }, "fontSize": 12 }
+        ],
+        "visualBorder": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFF00" } },
+            "radius": 10
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFF00" } },
+            "position": "Outer",
+            "preset": "BottomRight",
+            "transparency": 50,
+            "blur": 15
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "header": [
+          {
+            "fontColor": { "solid": { "color": "#D4AC0D" } },
+            "textSize": 12,
+            "background": { "solid": { "color": "#000000" } }
+          }
+        ],
+        "items": [
+          {
+            "fontColor": { "solid": { "color": "#D4AC0D" } },
+            "background": { "solid": { "color": "#000000" } },
+            "textSize": 11
+          }
+        ],
+        "visualBorder": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFF00" } },
+            "radius": 10
+          }
+        ]
+      }
+    },
+    "kpi": {
+      "*": {
+        "indicator": [
+          { "indicatorDisplayUnits": 0, "fontColor": { "solid": { "color": "#FFFFFF" } } }
+        ],
+        "caption": [
+          { "fontColor": { "solid": { "color": "#FFFF00" } } }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "grid": [
+          {
+            "gridVertical": true,
+            "gridVerticalColor": { "solid": { "color": "#FFFFFF" } },
+            "gridHorizontal": true,
+            "gridHorizontalColor": { "solid": { "color": "#FFFFFF" } }
+          }
+        ],
+        "columnHeaders": [
+          { "fontColor": { "solid": { "color": "#FFFFFF" } }, "backColor": { "solid": { "color": "#000000" } }, "fontFamily": "Segoe UI Bold" }
+        ],
+        "values": [
+          { "fontColor": { "solid": { "color": "#FFFFFF" } }, "backColor": { "solid": { "color": "#000000" } } }
+        ],
+        "total": [
+             { "fontColor": { "solid": { "color": "#FFFF00" } }, "backColor": { "solid": { "color": "#111111" } }, "fontFamily": "Segoe UI Bold" }
+        ]
+      }
+    }
+  }
+}
+
+
+
+---
+
 ## 🎨 Elementos Personalizables
 
 ### **📊 Cards (Tarjetas)**
