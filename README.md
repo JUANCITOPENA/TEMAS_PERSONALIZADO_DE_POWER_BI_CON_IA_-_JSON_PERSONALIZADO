@@ -13,7 +13,7 @@
 </div>
 
 
-![TEMA](portda_tema.png)
+![TEMA](portada_tema.png)
 
 
 ---
